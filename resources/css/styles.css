@@ -26,3 +26,8 @@ h4 {
   width: 800px;
   height: 600px;
 }
+footer {
+  text-align: right;
+  color: grey;
+  font-size: 21px;
+}
