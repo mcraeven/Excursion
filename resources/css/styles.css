@@ -1,0 +1,28 @@
+body {
+  font-family: Verdana, Geneva, Tahoma, sans-serif;
+  background-color: black;
+  text-align: center;
+}
+h1 {
+  color: white;
+  font-weight: normal;
+}
+
+.downloadlink {
+  font-size: 16px;
+  color: aquamarine;
+}
+
+h2 {
+  font-weight: 300;
+  font-size: 32px;
+  color: white;
+}
+h4 {
+  color: grey;
+  font-size: 21px;
+}
+.campfire {
+  width: 800px;
+  height: 600px;
+}
